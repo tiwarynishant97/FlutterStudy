@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class  HomePage extends StatelessWidget {
-  final int days=30;
+  final int days=40;
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -9,9 +9,8 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    int days = 30;
     return MaterialApp(
-      home: HomePage();
+      home: HomePage(),
     );
   }
 }
